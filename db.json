@@ -1,4 +1,19 @@
 {
   "users": [
+  ],
+  "secoes": [
+    {
+      "id":1,
+      "user_id": 4,
+      "acertos": [
+        {"id_pergunta": 10},
+        {"id_pergunta": 5},
+        {"id_pergunta": 11}
+      ],
+      "erros": [
+        {"id_pergunta": 8},
+        {"id_pergunta": 6}
+      ]
+    }
   ]
 }
